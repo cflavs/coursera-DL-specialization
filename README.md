@@ -7,4 +7,4 @@ taught by Andrew Ng.
 
 * Language: Python 3
 * Framework: Tensorflow
-* Additional tools: Python Notebook 3
+* Additional tools: Jupyter Notebook for Python 3
